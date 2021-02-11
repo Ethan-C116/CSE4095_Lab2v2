@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Lab2_v2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="start">Start</string>
+    <string name="previous">Previous</string>
+    <string name="restart">Restart</string>
+
+    <string name="welcome">Welcome! Click "Start" to begin!</string>
+    <string name="skip">Skip</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="exit_button">Exit</string>
+    <string name="score_message">Score:</string>
+
+    <string name="score">%d</string>
+    <string name="question">%s</string>
+    <string name="play_again">Play Again?</string>
+    <string name="final_score_message">Congratulations! Your final score was:</string>
+
+</resources>
